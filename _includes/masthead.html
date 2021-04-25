@@ -10,12 +10,16 @@
  <a href="https://github.com/{{ user.login }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           Curriculum Vitae
  </a> 
-  <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-   {{ user.email }}
-  </a>
 </p>
 {% if include.metadata %}
 <p></p>
+   % if user.email %}
+      <div class="{{ metadata_styles }}">
+        <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          {{ user.email }}
+        </a>
+      </div>
+    {% endif %}
   <div class="f4 mb-6">
     {% if user.name %}
       <div class="{{ metadata_styles }}">
