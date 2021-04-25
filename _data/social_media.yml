@@ -1,3 +1,9 @@
+cv:
+  name: cv
+  profile_url_prefix: https://petropoulakispanagiotis.github.io/
+  icon_svg: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
 behance:
   name: Behance
   profile_url_prefix: https://www.behance.net/
