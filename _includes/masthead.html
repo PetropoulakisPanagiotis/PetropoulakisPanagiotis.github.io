@@ -18,7 +18,7 @@
     {% if user.email %}
       <div class="{{ metadata_styles }}">
         <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          {{ user.email }}
+          Email
         </a>
       </div>
     {% endif %}
