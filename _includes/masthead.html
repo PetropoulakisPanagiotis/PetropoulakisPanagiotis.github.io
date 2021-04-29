@@ -12,7 +12,7 @@
  Research Interests: AI techniques for Robotics
 </p>
 {% if include.metadata %}
-  <div class="f4 mb-1">
+  <div class="f4 mb-0">
     <div class="{{ metadata_styles }}">
         <a href="docs/cv.pdf" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           Curriculum Vitae
@@ -32,7 +32,7 @@
       </div>
     {% endif %}
     {% if site.social_media %}
-      <div class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mt-md-3{% endif %}">
+      <div class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mb-0 mt-md-3{% endif %}">
         {% for account in site.social_media %}
           <div class="{% unless forloop.last == true %}mr-3{% endunless %} mb-3">
             {% assign service_shortname = account[0] %}
