@@ -1,25 +1,25 @@
 {% include header.html %}
 
 {% if site.layout == 'stacked' %}
-  <div class="container-lg py-4 p-responsive text-center">
+  <div class="container-lg py-2 p-responsive text-center">
     {% include masthead.html metadata=true %}
 
     <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
       {{ content }}
     </div>
 
-    <div class="my-4">
+    <div class="my-2">
       {% include bio.html %}
     </div>
 
     {% if site.topics %}
-      <div class="my-4">
+      <div class="my-2">
         {% include interests.html %}
       </div>
     {% endif %}
 
     {% unless posts_total == 0 %}
-      <div class="my-4">
+      <div class="my-2">
         {% include thoughts.html %}
       </div>
     {% endunless %}
