@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://PetropoulakisPanagiotis.github.io/sitemap.xml
+Sitemap: https://petropoulakispanagiotis.github.io/sitemap.xml
