@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I can discover patterns, combine methodologies together, and propose extensions
+
 
 profile:
   align: right
