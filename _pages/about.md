@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi,
 
-I am Panagiotis, an M.Sc. Computer Science student at the [Technical University of Munich](https://www.tum.de/en/). Please have a look at my blog and CV for more information. 
+I am Panagiotis, an M.Sc. Computer Science student at the [Technical University of Munich](https://www.tum.de/en/). Please have a look at my [blog](https://petropoulakispanagiotis.github.io/blog/) and CV for more information. 
