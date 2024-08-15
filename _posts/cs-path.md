@@ -8,6 +8,8 @@ categories: academic
 featured: true
 ---
 
+### Bachelors' Aera
+
 It all started at the National and [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) in 2020 when I began my Bachelor's degree in Computer Science. From my first lab in C, I was inspired by one of the assistants, who was using a special editor to help me debug my code—[VIM](https://www.vim.org/). As soon as I returned home, I dedicated myself to understanding how it works, learning the keywords, and mastering it. To this day, VIM remains my primary editor. It may not have all the conveniences of modern IDEs, but it allows me to code quickly and with fewer distractions. After five years of writing C and C++ code with VIM, there’s no turning back.
 
 As I progressed, I developed a deep passion for Data Structures and Algorithms. In my second semester, I started coding fundamental data structures from scratch, even though it wasn't required by the course. Driven by curiosity, I tackled the most challenging structures on my own. You can find some of my early implementations in the [algorithms-data-structures](https://github.com/PetropoulakisPanagiotis/algorithms-data-structures/tree/master) repository.
@@ -21,6 +23,8 @@ The journey through my B.Sc. thesis was challenging but rewarding. I discovered 
 Prof. Kyriakopoulos noticed my rapid progress, especially in deep learning. He trusted me to peer-review a paper for the 28th Mediterranean Conference on Control and Automation, which I eagerly accepted. The task was challenging, especially since the topic was heavy in mathematics, but I studied hard to provide a fair and impartial review.
 
 After completing my thesis, which you can find here, [A Leader-Follower Mobile Robot Scheme using an RGB-D Camera and MobileNets](https://github.com/PetropoulakisPanagiotis/BSc_thesis), I developed a robotic system that uses an RGB-D camera and MobileNets for object detection, enabling a Leader-Follower scheme in mobile robots. The system was tested on Pioneer 3-AT and Summit-XL robots, showing high accuracy and efficiency, with a processing speed of 19 Hz on a GeForce GTX1060 GPU.
+
+### Masters' Aera
 
 After receiving my Bachelor's degree, I wanted to deepen my knowledge in Computer Vision and Robotics. In 2021, I started my M.Sc. in Computer Science at the [Technical University of Munich (TUM)](https://www.cit.tum.de/cit/startseite/). My path during my M.Sc. was uncertain, but I embraced the unknown, believing that it offers great rewards when followed with instinct and courage.
 
