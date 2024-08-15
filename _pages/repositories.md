@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Here are a few of my repositories for you to explore.
+description: Here are a few repositories for you to explore.
 nav: true
 nav_order: 8
 ---
