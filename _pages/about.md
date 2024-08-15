@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <b>I can discover patterns, combine methodologies together, and propose extensions</b>
 
-
 profile:
   align: right
   image: prof_pic.jpg
