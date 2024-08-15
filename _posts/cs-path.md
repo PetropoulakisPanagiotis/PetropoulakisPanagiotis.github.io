@@ -2,7 +2,7 @@
 layout: post
 title: Computer Science Path 
 date: 2024-08-15 12:05:00
-description: my Computer Science Journey: From Bachelor’s to Master’s
+description: "my Computer Science Journey: From Bachelor's to Master's"
 tags: academic
 categories: academic
 featured: true
