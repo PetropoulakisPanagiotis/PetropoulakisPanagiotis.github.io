@@ -3,12 +3,13 @@ layout: post
 title: my journey in Women in CS @ TUM student club 
 date: 2024-08-15 12:00:00
 description: explore my journey and the lessons learned 
-tags: formatting images
-categories: sample-posts
+tags: personal
+categories: personal
 thumbnail: assets/img/wics/IFF.png
 images:
   compare: true
   slider: true
+featured: true
 ---
 
 This is an example post with advanced image components.
