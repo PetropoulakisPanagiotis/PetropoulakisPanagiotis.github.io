@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Here are a few repositories for you to explore.
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 {% if site.data.repositories.github_repos %}
