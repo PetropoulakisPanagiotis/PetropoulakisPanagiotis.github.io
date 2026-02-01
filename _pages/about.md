@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>I can discover patterns, combine methodologies together, and propose extensions</b>
+subtitle: <b>I can discover patterns, combine methodologies, and develop principled extensions</b>
 
 profile:
   align: right
