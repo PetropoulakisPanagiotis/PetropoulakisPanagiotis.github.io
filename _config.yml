@@ -313,8 +313,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Petropoulakis]
+  first_name: [Panagiotis, P.]
 
   style: apa
   locale: en
