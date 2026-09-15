@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Student theses and interdisciplinary research projects I have supervised or advised at TUM.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [student-projects]
 horizontal: false
 ---

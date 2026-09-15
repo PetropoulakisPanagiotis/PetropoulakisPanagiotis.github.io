@@ -14,9 +14,10 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+projects: true # show supervised student projects on the homepage
 social: false # includes social icons at the bottom of the page
 ---
-I am <b>Panagiotis Petropoulakis</b>, a Ph.D. researcher at the <b>Chair of Computing in Civil and Building Engineering (CCBE)</b> and the <b>Georg Nemetschek Institute (GNI)</b> at the [Technical University of Munich (TUM)](https://www.tum.de/en/). I am also a doctoral candidate at the [TUM School of Computation, Information and Technology (CIT)](https://www.cit.tum.de/), affiliated with the <b>Chair of Robotics, Artificial Intelligence and Real-Time Systems</b> under <b>Prof. Alois Knoll</b>.
+I am <b>Panagiotis Petropoulakis</b>, a Ph.D. researcher at the [<b>Chair of Computing in Civil and Building Engineering (CCBE)</b>](https://www.cee.ed.tum.de/ccbe/team/) and the <b>Georg Nemetschek Institute (GNI)</b> at the [Technical University of Munich (TUM)](https://www.tum.de/en/). I am also a doctoral candidate at the [TUM School of Computation, Information and Technology (CIT)](https://www.cit.tum.de/), affiliated with the [<b>Chair of Robotics, Artificial Intelligence and Real-Time Systems</b>](https://www.ce.cit.tum.de/air/home/) under <b>Prof. Alois Knoll</b>.
 
 My research focuses on <b>construction robotics, mobile manipulation, state representation learning, traversability, Sim2Real transfer, and long-horizon reasoning</b> for autonomous robots operating in complex and unstructured environments.
 
@@ -28,4 +29,4 @@ My work spans reliable mobile-robot navigation, terrain-aware motion planning, m
 
 My goal through my research and projects is to connect with people, both to offer and to learn from them, and ideally, to leave a positive impact.
 
-For additional information, please visit my [blog](https://petropoulakispanagiotis.github.io/blog/) and have a look at my [CV](https://petropoulakispanagiotis.github.io/cv/). My supervised student projects are available from the **Projects** page in the navigation menu.
+For additional information, please visit my [blog](https://petropoulakispanagiotis.github.io/blog/), browse my [student projects]({{ '/projects/' | relative_url }}), and have a look at my [CV](https://petropoulakispanagiotis.github.io/cv/).

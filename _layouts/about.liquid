@@ -64,6 +64,22 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Student projects -->
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">student projects</a>
+      </h2>
+      {% assign homepage_projects = site.projects | where: "category", "student-projects" | sort: "importance" %}
+      <div class="row row-cols-1 row-cols-md-2">
+        {% for project in homepage_projects limit: 4 %}
+          {% include projects.liquid %}
+        {% endfor %}
+      </div>
+      <p style="margin-top: 0.75rem;">
+        <a href="{{ '/projects/' | relative_url }}">View all student projects →</a>
+      </p>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
