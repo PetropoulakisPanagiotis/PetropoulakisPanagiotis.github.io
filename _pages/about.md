@@ -28,4 +28,4 @@ My work spans reliable mobile-robot navigation, terrain-aware motion planning, m
 
 My goal through my research and projects is to connect with people, both to offer and to learn from them, and ideally, to leave a positive impact.
 
-For additional information, please visit my [blog](https://petropoulakispanagiotis.github.io/blog/), browse my [student projects](https://petropoulakispanagiotis.github.io/projects/), and have a look at my [CV](https://petropoulakispanagiotis.github.io/cv/).
+For additional information, please visit my [blog](https://petropoulakispanagiotis.github.io/blog/) and have a look at my [CV](https://petropoulakispanagiotis.github.io/cv/). My supervised student projects are available from the **Projects** page in the navigation menu.
