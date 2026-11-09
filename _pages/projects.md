@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Student theses and interdisciplinary research projects I have supervised or advised at TUM.
+description: Research projects, student theses, and interdisciplinary projects.
 nav: true
 nav_order: 4
-display_categories: [student-projects]
+display_categories: [research-projects, student-projects]
 horizontal: false
 ---
 
